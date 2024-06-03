@@ -22,11 +22,15 @@
 
 <details>
 
-| **Função** | **Comando**                 | **Descrição**                                                                                 |
-| ---------- | --------------------------- | --------------------------------------------------------------------------------------------- |
-| Output     | Console.WriteLine( value ); | Imprime os valores da variável pulando uma linha                                              |
-| Output     | Console.Write( value );     | Imprime os valores da variável sem pular linha                                                |
-| Input      | Console.ReadLine( value );  | Entrada de valores através do teclado<br>`INFO` retorna os dados lidos em forma de **string** |
+| **Função**               | **Comando**                         | **Descrição**                                                                                                   |
+| ------------------------ | ----------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Output                   | Console.WriteLine( value );         | Imprime os valores da variável pulando uma linha                                                                |
+| Output                   | Console.Write( value );             | Imprime os valores da variável sem pular linha                                                                  |
+| Input                    | Console.ReadLine( value );          | Entrada de valores através do teclado<br>`INFO` retorna os dados lidos em forma de **string**                   |
+| Split                    | string[] vet = variavel.Split(' '); | Atribui valores a vetores de string. **ex: "batata tomate abacaxi"**<br>a = vet[0]<br>b = vet[1]<br>c = vet[2]  |
+| Convert string in int    | int.Parse(Console.ReadLine());      | Converte **STRING** em **INT**                                                                                  |
+| Convert string in char   | char.Parse(Console.ReadLine());     | Converte **STRING** em **CHAR**                                                                                 |
+| Convert string in double | char.Parse(Console.ReadLine());     | Converte **STRING** em **DOUBLE**                                                                               |
 
 </details><br>
 
