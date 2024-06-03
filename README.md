@@ -17,6 +17,48 @@
 <br>
 <!-- LINKS UTEIS -->
 
+#### **COMANDOS**
+##### `INFO` principais comandos utilizados
+
+<details>
+
+| **Função** | **Comando**                 | **Descrição**                                                                                 |
+| ---------- | --------------------------- | --------------------------------------------------------------------------------------------- |
+| Output     | Console.WriteLine( value ); | Imprime os valores da variável pulando uma linha                                              |
+| Output     | Console.Write( value );     | Imprime os valores da variável sem pular linha                                                |
+| Input      | Console.ReadLine( value );  | Entrada de valores através do teclado<br>`INFO` retorna os dados lidos em forma de **string** |
+
+</details><br>
+
+#### **C# built-in data types (tipos valor)**
+##### `INFO`
+<details>
+
+| **C# Type** | **.Net Framework Type** | **Signed** | **Byte** | **Possible Values**                                                   |
+| ----------- | ----------------------- | ---------- | -------- | --------------------------------------------------------------------- |
+| sbyte       | System.Sbyte            | Yes        | 1        | -128 TO 127                                                           |
+| short       | System.Int16            | Yes        | 2        | -32768 TO 32767                                                       |
+| int         | System.Int32            | Yes        | 4        | -2³¹ TO ( 2³¹ - 1 )                                                   |
+| long        | System.Int64            | Yes        | 8        | -2^63 TO ( 2^63 - 1 )                                                 |
+| byte        | System.Byte             | No         | 1        | 0 TO 255                                                              |
+| ushort      | System.Uint16           | No         | 2        | 0 TO 65535                                                            |
+| uint        | System.Uint32           | No         | 4        | 0 TO ( 2³² -1 )                                                       |
+| ulong       | System.Uint64           | No         | 8        | 0 TO ( 2^64 -1 )                                                      |
+| float       | System.Single           | Yes        | 4        | +- 1.5 x 10^-45 TO +- 3.4 x 10^38 with 7 significant figures          |
+| double      | System.Double           | Yes        | 8        | +- 5.0 x 10^-324 TO +- 1.7 x 10^308 with 15 OR 16 significant figures |
+| decimal     | System.DEcimal          | Yes        | 12       | +- 1.0 x 10^-28 TO +- 7.9 x 10^28 with 28 OR 29 significant figures   |
+| char        | System.Char             | N/A        | 2        | Any Unicode Character                                                 |
+| bool        | System.Boolean          | N/A        | 1/2      | true OR false                                                         |
+
+<br>
+
+| **C# Type** | **.Net Framework Type** | **Desccrição**                                                                                |
+| ----------- | ----------------------- | --------------------------------------------------------------------------------------------- |
+| string      | System.String           | Uma cadeia de caracteres UNICODE<br> - **IMUTÁVEL**  ( segurança, simplicidade, thread safe ) |
+| object      | System.Object           | Um objeto genérico ( toda classeem C# é subclasse de object )<br>- GetType<br>- Equals<br>- GetHashCode<br>- ToString |
+
+</details><br>
+
 
 ---
 <!-- Exercicios -->
