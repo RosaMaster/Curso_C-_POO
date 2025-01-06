@@ -1,13 +1,13 @@
 <!-- HEADER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=258f76&height=140&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0153E&height=140&section=header" alt="header"/>
 
 
 <!-- TITLE -->
-<h1 align="center" alt="title">
-  <img src="https://media0.giphy.com/media/crxNUSArkbdMwE7B4r/giphy.gif?cid=ecf05e47fs0o2g9jb9cjad9iogriaoh8r8n11wc43887475k&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="45" width="45" />
-    <b> c-sharp-completo-poo </b>
-  <img src="https://media0.giphy.com/media/crxNUSArkbdMwE7B4r/giphy.gif?cid=ecf05e47fs0o2g9jb9cjad9iogriaoh8r8n11wc43887475k&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="45" width="45" />
-</h1>
+<h2 align="center" alt="title">
+
+    <head>    C - S H A R P   C O M P L E T O   P O O    </head>
+
+</h2>
 
 
 <!-- DESCRIBLE -->
