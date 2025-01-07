@@ -11,8 +11,7 @@
 
 
 <!-- DESCRIBLE -->
->O **C#** é uma linguagem de programação multiparadigma criada pela Microsoft, sendo a principal da plataforma **.NET**. Por ser uma linguagem que suporta, entre outros paradigmas, a orientação à objetos, ela suporta conceitos comuns como encapsulamento, herança e polimorfismo.<br><br>
->**LifeLong Learning | Aprendizado ao longo da vida...**
+O **C#** é uma linguagem de programação multiparadigma criada pela Microsoft, sendo a principal da plataforma **.NET**. Por ser uma linguagem que suporta, entre outros paradigmas, a orientação à objetos, ela suporta conceitos comuns como encapsulamento, herança e polimorfismo.<br>
 
 <br>
 <!-- LINKS UTEIS -->
